@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Java](#java)
 *   [C#](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [C](#c-1)
 *   [Dart](#dart)
@@ -17,6 +17,14 @@
 *   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [PHP](#php)
+
+## HTML
+
+*   [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
+
+*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+
+*   [fuckcqcs/fuckcqcs](https://github.com/fuckcqcs/fuckcqcs) - 14小时
 
 ## miscellaneous
 
@@ -133,12 +141,6 @@
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 *   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-## HTML
-
-*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-
-*   [fuckcqcs/fuckcqcs](https://github.com/fuckcqcs/fuckcqcs) - 14小时
 
 ## TypeScript
 
