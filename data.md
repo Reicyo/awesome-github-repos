@@ -20,6 +20,8 @@
 
 ## Java
 
+*   [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
+
 *   [NeatGuyCoding/netty-socketio](https://github.com/NeatGuyCoding/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 
 *   [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
