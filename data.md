@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Java](#java)
 *   [Go](#go)
 *   [Dart](#dart)
@@ -14,9 +15,18 @@
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [C](#c-1)
-*   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [PHP](#php)
+
+## Shell
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## Java
 
@@ -219,12 +229,6 @@
 ## C
 
 *   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-
-## Shell
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## Ruby
 
