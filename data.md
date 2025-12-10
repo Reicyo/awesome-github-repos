@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -18,6 +19,10 @@
 *   [C](#c-1)
 *   [Ruby](#ruby)
 *   [PHP](#php)
+
+## Kotlin
+
+*   [Haleclipse/Claudix-JetBrains](https://github.com/Haleclipse/Claudix-JetBrains) - Claudix for JetBrains brings the powerful Claudix AI coding assistant to JetBrains IDEs (Claude Code)
 
 ## Batchfile
 
@@ -130,8 +135,6 @@
 *   [realpdai/tech-pdai-spring-demos](https://github.com/realpdai/tech-pdai-spring-demos) - Spring Framework5/SpringBoot 2.5.x Demos
 
 *   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
-
-*   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 
 ## Shell
 
