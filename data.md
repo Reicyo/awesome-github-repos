@@ -5,7 +5,6 @@
 *   [Markdown](#markdown)
 *   [Java](#java)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -17,6 +16,7 @@
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [HTML](#html)
+*   [Rust](#rust)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 
@@ -94,21 +94,9 @@
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-## Rust
+## TypeScript
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-## TypeScript
 
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
@@ -245,6 +233,18 @@
 *   [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 
 *   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+
+## Rust
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## C
 
