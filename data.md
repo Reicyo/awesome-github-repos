@@ -5,6 +5,7 @@
 *   [Markdown](#markdown)
 *   [Java](#java)
 *   [Python](#python)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -16,7 +17,6 @@
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [Rust](#rust)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 
@@ -80,6 +80,8 @@
 
 *   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [liangdabiao/Business\_Idea\_Validator](https://github.com/liangdabiao/Business_Idea_Validator) - 这是一种 AI 驱动的工具，可通过自动 Web 抓取和智能分析来验证业务概念。该系统通过分析在线讨论和生成评分验证报告来评估市场需求、竞争水平和可行性。 这是一款专业的商业调研应用程序，为用户提供友好的界面来：1.验证商业创意 ， 2.分析用户评论。 该应用通过分析网络讨论，识别与您商业创意相关的痛点、兴奋信号和竞争对手。 分析用户评论,得出多维度商业数据分析。
 
 *   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -94,17 +96,27 @@
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-## TypeScript
+## Rust
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## TypeScript
 
 *   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
 *   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
@@ -233,18 +245,6 @@
 *   [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 
 *   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-
-## Rust
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## C
 
