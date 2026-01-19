@@ -142,7 +142,7 @@
 
 *   [Reicyo/spond](https://github.com/Reicyo/spond) - spond
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 
 *   [mrniko/netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 
