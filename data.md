@@ -28,7 +28,7 @@
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
@@ -240,7 +240,7 @@
 
 ## Dart
 
-*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
+*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 
 *   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
 
