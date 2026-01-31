@@ -24,7 +24,7 @@
 
 ## TypeScript
 
-*   [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 *   [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 
