@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
@@ -22,6 +22,34 @@
 *   [C#](#c-1)
 *   [Vue](#vue)
 *   [HTML](#html)
+
+## Python
+
+*   [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
+
+*   [dongshuyan/BuddyFinder-TUI](https://github.com/dongshuyan/BuddyFinder-TUI) - BuddyFinder - Claude Code 宠物自定义工具Python TUI版
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
+
+*   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+*   [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
+
+*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+*   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
+
+*   [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+*   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+
+*   [liangdabiao/Business\_Idea\_Validator](https://github.com/liangdabiao/Business_Idea_Validator) - 这是一种 AI 驱动的工具，可通过自动 Web 抓取和智能分析来验证业务概念。该系统通过分析在线讨论和生成评分验证报告来评估市场需求、竞争水平和可行性。 这是一款专业的商业调研应用程序，为用户提供友好的界面来：1.验证商业创意 ， 2.分析用户评论。 该应用通过分析网络讨论，识别与您商业创意相关的痛点、兴奋信号和竞争对手。 分析用户评论,得出多维度商业数据分析。
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ## TypeScript
 
@@ -58,34 +86,6 @@
 *   [linux-do/cdk](https://github.com/linux-do/cdk) - LINUX DO CD key
 
 *   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-
-## Python
-
-*   [dongshuyan/BuddyFinder-TUI](https://github.com/dongshuyan/BuddyFinder-TUI) - BuddyFinder - Claude Code 宠物自定义工具Python TUI版
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
-
-*   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-*   [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
-
-*   [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-*   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-
-*   [liangdabiao/Business\_Idea\_Validator](https://github.com/liangdabiao/Business_Idea_Validator) - 这是一种 AI 驱动的工具，可通过自动 Web 抓取和智能分析来验证业务概念。该系统通过分析在线讨论和生成评分验证报告来评估市场需求、竞争水平和可行性。 这是一款专业的商业调研应用程序，为用户提供友好的界面来：1.验证商业创意 ， 2.分析用户评论。 该应用通过分析网络讨论，识别与您商业创意相关的痛点、兴奋信号和竞争对手。 分析用户评论,得出多维度商业数据分析。
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ## Ruby
 
