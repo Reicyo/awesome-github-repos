@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Rust](#rust)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -10,7 +11,6 @@
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Swift](#swift)
-*   [Rust](#rust)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Go](#go)
@@ -24,6 +24,8 @@
 *   [HTML](#html)
 
 ## Python
+
+*   [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 
 *   [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill) - Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts
 
@@ -48,6 +50,26 @@
 *   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 
 *   [liangdabiao/Business\_Idea\_Validator](https://github.com/liangdabiao/Business_Idea_Validator) - 这是一种 AI 驱动的工具，可通过自动 Web 抓取和智能分析来验证业务概念。该系统通过分析在线讨论和生成评分验证报告来评估市场需求、竞争水平和可行性。 这是一款专业的商业调研应用程序，为用户提供友好的界面来：1.验证商业创意 ， 2.分析用户评论。 该应用通过分析网络讨论，识别与您商业创意相关的痛点、兴奋信号和竞争对手。 分析用户评论,得出多维度商业数据分析。
+
+## Rust
+
+*   [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+
+*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
+
+*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
+
+*   [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## PHP
 
@@ -127,8 +149,6 @@
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
 ## Ruby
 
 *   [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧
@@ -144,24 +164,6 @@
 *   [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 
 *   [w1cg/LuanUI](https://github.com/w1cg/LuanUI) - Professional mac OS service manager, making startup intuitive and easily accessible. Create, edit and debug your startup projects and services with our powerful visual editor
-
-## Rust
-
-*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
-
-*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
-
-*   [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## Java
 
@@ -200,8 +202,6 @@
 *   [Reicyo/uid-generator-spring-boot3-starter](https://github.com/Reicyo/uid-generator-spring-boot3-starter) - uid-generator-spring-boot3-starter
 
 *   [Reicyo/code-with-quarkus](https://github.com/Reicyo/code-with-quarkus) - Generated by code.quarkus.io
-
-*   [vert-x3/vertx-examples](https://github.com/vert-x3/vertx-examples) - Vert.x examples
 
 ## Shell
 
