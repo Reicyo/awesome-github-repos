@@ -129,7 +129,7 @@
 
 *   [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
 
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
@@ -249,7 +249,7 @@
 
 ## Batchfile
 
-*   [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活神器 ( Microsoft-Activation-Scripts 简称 MAS ) 的汉化版（中文简体）
+*   [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活工具 MAS (Microsoft-Activation-Scripts) 的汉化版
 
 ## C\#
 
