@@ -2,263 +2,263 @@
 
 ## Table of Contents
 
-*   [Java](#java)
-*   [Rust](#rust)
-*   [Go](#go)
-*   [Python](#python)
-*   [TypeScript](#typescript)
-*   [PHP](#php)
-*   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
-*   [Ruby](#ruby)
-*   [Dart](#dart)
-*   [Swift](#swift)
-*   [Shell](#shell)
-*   [PowerShell](#powershell)
-*   [C++](#c)
-*   [Markdown](#markdown)
-*   [Kotlin](#kotlin)
-*   [Batchfile](#batchfile)
-*   [C#](#c-1)
-*   [Vue](#vue)
-*   [HTML](#html)
-
-## Java
-
-*   [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-
-*   [dromara/surpass](https://github.com/dromara/surpass) - 基于springboot+sureness的面向REST API资源无状态认证权限管理系统
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
-
-*   [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
-
-*   [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
-
-*   [linpeilie/mapstruct-plus](https://github.com/linpeilie/mapstruct-plus) - MapStruct Plus is an enhancement to the MapStruct framework. It can automatically generate the transformation operation between two classes through an annotation, omitting the operation of defining the interface of MapStruct, makes Java type conversion easy and elegant.
-
-*   [zeromq/jeromq](https://github.com/zeromq/jeromq) - JeroMQ is a pure Java implementation of the ZeroMQ messaging library, offering high-performance asynchronous messaging for distributed or concurrent applications.
-
-*   [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
-
-*   [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
-
-*   [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
-
-*   [NeatGuyCoding/netty-socketio](https://github.com/NeatGuyCoding/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
-
-*   [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
-
-*   [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
-
-*   [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - High-Performance Asynchronous HTTP and WebSocket Client Library for Java
-
-## Rust
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
-
-*   [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
-
-*   [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
-
-*   [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-## Go
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
-
-*   [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
-
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-
-*   [yu-xiaoyao/jrebel-license-active-server](https://github.com/yu-xiaoyao/jrebel-license-active-server) - JRebel and XRebel active server(Jrebel 激活服务器)
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-
-*   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-
-## Python
-
-*   [Numb94/crewai-astock](https://github.com/Numb94/crewai-astock) - 基于 CrewAI 多智能体协作的 A 股智能分析与推荐系统 | Multi-agent A-share stock   analyst built on CrewAI
-
-*   [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
-
-*   [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
-
-*   [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill) - Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts
-
-*   [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
-
-*   [dongshuyan/BuddyFinder-TUI](https://github.com/dongshuyan/BuddyFinder-TUI) - BuddyFinder - Claude Code 宠物自定义工具Python TUI版
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
-
-*   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-*   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-*   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
-
-*   [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-*   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+* [TypeScript](#typescript)
+* [Java](#java)
+* [Rust](#rust)
+* [Go](#go)
+* [Python](#python)
+* [PHP](#php)
+* [JavaScript](#javascript)
+* [miscellaneous](#miscellaneous)
+* [Ruby](#ruby)
+* [Dart](#dart)
+* [Swift](#swift)
+* [Shell](#shell)
+* [PowerShell](#powershell)
+* [C++](#c)
+* [Markdown](#markdown)
+* [Kotlin](#kotlin)
+* [Batchfile](#batchfile)
+* [C#](#c-1)
+* [Vue](#vue)
+* [HTML](#html)
 
 ## TypeScript
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+* [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 
-*   [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, interactive games, and IP content
+* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
+* [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, interactive games, and IP content
 
-*   [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+* [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
-*   [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
+* [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) - Smart, snappy, and multilingual AI assistant for your vault.
 
-*   [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+* [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
-*   [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+* [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
-*   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
+* [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 
-*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+* [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
 
-*   [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
+* [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+* [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 
-*   [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
+* [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-*   [gptkong/ldc-store](https://github.com/gptkong/ldc-store) -
+* [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 
-*   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+* [gptkong/ldc-store](https://github.com/gptkong/ldc-store) -
 
-*   [chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop) - Linux DO Credit Virtual Goods Shop
+* [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+* [chatgptuk/ldc-shop](https://github.com/chatgptuk/ldc-shop) - Linux DO Credit Virtual Goods Shop
 
-*   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
+* [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 
-*   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+* [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
 
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+* [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+
+* [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+## Java
+
+* [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+
+* [dromara/surpass](https://github.com/dromara/surpass) - 基于springboot+sureness的面向REST API资源无状态认证权限管理系统
+
+* [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
+
+* [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+
+* [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
+
+* [linpeilie/mapstruct-plus](https://github.com/linpeilie/mapstruct-plus) - MapStruct Plus is an enhancement to the MapStruct framework. It can automatically generate the transformation operation between two classes through an annotation, omitting the operation of defining the interface of MapStruct, makes Java type conversion easy and elegant.
+
+* [zeromq/jeromq](https://github.com/zeromq/jeromq) - JeroMQ is a pure Java implementation of the ZeroMQ messaging library, offering high-performance asynchronous messaging for distributed or concurrent applications.
+
+* [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
+
+* [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
+
+* [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
+
+* [NeatGuyCoding/netty-socketio](https://github.com/NeatGuyCoding/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
+
+* [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
+
+* [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
+
+* [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - High-Performance Asynchronous HTTP and WebSocket Client Library for Java
+
+## Rust
+
+* [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+* [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
+* [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+
+* [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
+
+* [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
+
+* [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
+
+* [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+## Go
+
+* [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+* [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) - Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)
+
+* [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
+
+* [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+
+* [yu-xiaoyao/jrebel-license-active-server](https://github.com/yu-xiaoyao/jrebel-license-active-server) - JRebel and XRebel active server(Jrebel 激活服务器)
+
+* [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
+* [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+
+* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+* [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+## Python
+
+* [Numb94/crewai-astock](https://github.com/Numb94/crewai-astock) - 基于 CrewAI 多智能体协作的 A 股智能分析与推荐系统 | Multi-agent A-share stock   analyst built on CrewAI
+
+* [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+
+* [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
+
+* [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill) - Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts
+
+* [GuDaStudio/codexmcp](https://github.com/GuDaStudio/codexmcp) - Enable seamless collaboration between Claude Code and Codex, transforming from a single agent to multiple agents for significantly enhanced productivity!
+
+* [dongshuyan/BuddyFinder-TUI](https://github.com/dongshuyan/BuddyFinder-TUI) - BuddyFinder - Claude Code 宠物自定义工具Python TUI版
+
+* [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+* [tibbar213/team-manage](https://github.com/tibbar213/team-manage) - gpt team管理和自动邀请
+
+* [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+
+* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+* [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
+
+* [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
+
+* [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+* [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 
 ## PHP
 
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
+* [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+* [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+* [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 
 ## JavaScript
 
-*   [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
+* [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 
-*   [Evol-ai/SkillCompass](https://github.com/Evol-ai/SkillCompass) - Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.
+* [Evol-ai/SkillCompass](https://github.com/Evol-ai/SkillCompass) - Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.
 
-*   [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-*   [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+* [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
-*   [hanfengchui/subscription-service](https://github.com/hanfengchui/subscription-service) -
+* [hanfengchui/subscription-service](https://github.com/hanfengchui/subscription-service) -
 
-*   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+* [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
+* [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
-*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+* [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
 ## miscellaneous
 
-*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+* [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-*   [arpingblue/vibepm](https://github.com/arpingblue/vibepm) - 你的 AI 编程架构大脑：将模糊业务需求翻译为精确的机器可读执行计划。一键生成兼容 Cursor / GSD 的原子化 XML 架构蓝图
+* [arpingblue/vibepm](https://github.com/arpingblue/vibepm) - 你的 AI 编程架构大脑：将模糊业务需求翻译为精确的机器可读执行计划。一键生成兼容 Cursor / GSD 的原子化 XML 架构蓝图
 
-*   [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
+* [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 
-*   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
+* [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+* [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
 ## Ruby
 
-*   [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧
+* [Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese) - 🀄️咱自己人的软件🏮咱自己人的仓库🧧
 
 ## Dart
 
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+* [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
+* [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 
 ## Swift
 
-*   [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
+* [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 
-*   [w1cg/LuanUI](https://github.com/w1cg/LuanUI) - Professional mac OS service manager, making startup intuitive and easily accessible. Create, edit and debug your startup projects and services with our powerful visual editor
+* [w1cg/LuanUI](https://github.com/w1cg/LuanUI) - Professional mac OS service manager, making startup intuitive and easily accessible. Create, edit and debug your startup projects and services with our powerful visual editor
 
 ## Shell
 
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
-*   [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
+* [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
 
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 
 ## PowerShell
 
-*   [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+* [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
 ## C++
 
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
+* [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
 
 ## Markdown
 
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Kotlin
 
-*   [Haleclipse/Claudix-JetBrains](https://github.com/Haleclipse/Claudix-JetBrains) - Claudix for JetBrains brings the powerful Claudix AI coding assistant to JetBrains IDEs (Claude Code)
+* [Haleclipse/Claudix-JetBrains](https://github.com/Haleclipse/Claudix-JetBrains) - Claudix for JetBrains brings the powerful Claudix AI coding assistant to JetBrains IDEs (Claude Code)
 
 ## Batchfile
 
-*   [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活工具 MAS (Microsoft-Activation-Scripts) 的汉化版
+* [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活工具 MAS (Microsoft-Activation-Scripts) 的汉化版
 
 ## C\#
 
-*   [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+* [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) - ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 
 ## Vue
 
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+* [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
 ## HTML
 
-*   [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
+* [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
